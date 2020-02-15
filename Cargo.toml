@@ -1,0 +1,13 @@
+[package]
+name = "cc13x2"
+version = "0.1.0"
+authors = ["Jean Pierre Dudey <jeandudey@hotmail.com>"]
+description = "Peripheral Access Crate for CC13x2 MCUs."
+documentation = "https://docs.rs/cc13x2"
+homepage = "https://github.com/jeandudey/cc13x2-rs"
+license = "MIT/Apache-2.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
