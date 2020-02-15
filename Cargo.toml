@@ -1,6 +1,6 @@
 [package]
 name = "cc13x2"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Jean Pierre Dudey <jeandudey@hotmail.com>"]
 description = "Peripheral Access Crate for CC13x2 MCUs."
 documentation = "https://docs.rs/cc13x2"
